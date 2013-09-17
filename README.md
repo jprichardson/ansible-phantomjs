@@ -1,7 +1,7 @@
 Ansible / phantomjs
 ===================
 
-Ansible playbook to install PhantomJS on Ubuntu server(s).
+Ansible playbook to download and install the latest PhantomJS on Ubuntu server(s).
 
 
 
